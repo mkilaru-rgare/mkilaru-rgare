@@ -1,4 +1,4 @@
-### Hi there, I'm [Mani Kilaru!](https://manikantesh.github.io)
+### Hi there, I'm [Mani Kilaru!](https://manikantesh.github.io/devprofile/)
 
 ```javascript
 const mani_kilaru = {
